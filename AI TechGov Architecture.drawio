@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-1" value="TechOps" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-322" y="355" width="25" height="44" as="geometry" />
+          <mxGeometry x="-267" y="414.5" width="25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aliyun SDK&lt;/div&gt;&lt;div&gt;Get Resources&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.alibaba_cloud_logo_english;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="774" y="162.5" width="111.14" height="14" as="geometry" />
@@ -60,16 +60,16 @@
           <mxGeometry x="792.63" y="482.5" width="94.73" height="29" as="geometry" />
         </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-19" value="DTC Risk" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-322" y="575" width="25" height="44" as="geometry" />
+          <mxGeometry x="-267" y="634.5" width="25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-20" value="BCM Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-322" y="463" width="25" height="44" as="geometry" />
+          <mxGeometry x="-267" y="522.5" width="25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-27" value="Infra Monitoring" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=15;image=img/lib/azure2/other/Grafana.svg;" parent="1" vertex="1">
           <mxGeometry x="806.13" y="648" width="48.3" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-28" value="Backend&lt;div&gt;Engineers&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-322" y="214.5" width="25" height="44" as="geometry" />
+          <mxGeometry x="-267" y="274" width="25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-31" value="Observability&#xa;MCP Server" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://avatars.githubusercontent.com/u/182288589?s=200&amp;v=4;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="607" y="681.5" width="35" height="35" as="geometry" />
