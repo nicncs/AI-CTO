@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="_Poc62Z_v5R6nY5Bc6GJ">
-    <mxGraphModel dx="1945" dy="1005" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1655" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M2ES50umptOfIewEjYMJ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="1642" width="750" height="660" as="geometry" />
+        </mxCell>
         <mxCell id="7yxh4x8OOJ2mNwHI0L5P-1" value="TechOps" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-267" y="414.5" width="25" height="44" as="geometry" />
         </mxCell>
@@ -267,6 +270,21 @@
         </mxCell>
         <mxCell id="M2ES50umptOfIewEjYMJ-20" value="A2A Protocol" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/google/A2A/18998ab681e886d8bb0512d2b358040290e97d18/docs/assets/a2a-logo-black.svg;" vertex="1" parent="1">
           <mxGeometry x="103" y="511.5" width="40.05" height="25.37" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ES50umptOfIewEjYMJ-25" value="LLM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1344" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ES50umptOfIewEjYMJ-26" value="Claude 3.5 Sonnet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="M2ES50umptOfIewEjYMJ-25">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ES50umptOfIewEjYMJ-29" value="Framework" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1422" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ES50umptOfIewEjYMJ-30" value="CrewAI - Python" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="M2ES50umptOfIewEjYMJ-29">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ES50umptOfIewEjYMJ-32" value="UI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="1344" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
